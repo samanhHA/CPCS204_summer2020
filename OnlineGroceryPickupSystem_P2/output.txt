@@ -1,0 +1,30 @@
+Order did not fulfill yet:
+The order information:
+
+customer ID: 510
+customer name: Ali
+order time: 01:42
+pickupTime: 06:00
+order items: Tomato, Carrot
+quantity: 4kg, 2kg
+
+-----------------------------------------------
+customer ID: 610
+customer name: Fatema
+order time: 01:42
+pickupTime: 05:41
+order items: Tomato, Potato
+quantity: 5kg, 3kg
+
+-----------------------------------------------
+Already Fulfilled orders:
+The order information:
+
+customer ID: 200
+customer name: Noha
+order time: 01:41
+pickupTime: 05:00
+order items: Tomato, Onion, Milk, Rice
+quantity: 2Kg, 3Kg, 1L, 5Kg
+
+-----------------------------------------------
