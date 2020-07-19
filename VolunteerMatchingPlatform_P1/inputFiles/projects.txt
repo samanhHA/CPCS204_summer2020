@@ -1,0 +1,15 @@
+Project Id,organization,title,description,category,status#
+1,Aytamona,website,Looking for someone who can create,web dev,not started#
+2,Nabta,social network,We need a volunteer that ,web design ,not started#
+3,Safi,Mobile app design,Looking for someone who can create,mobile dev,not started#
+4,Albir Makkah,Oracle DB Migration,We need a  ,database,not started#
+5,Albir Jeddah,Server administration,Looking for someone who can create,linux administration,completed#
+6,Nafa,plugin for windows desktop,We need a volunteer ,system dev,completed#
+7,Nama,network installation,Looking for someone who can create,network administration ,completed#
+8,Ektifa,Advertising management,We are a non-profit organization ,web dev,not started#
+9,Asdika,Human resource,Looking for someone who can create,secretaria,not started#
+10,Kema,Ads management,We need a volunteer to manage the ads ,secretaria,not started#
+12,Aya,Mobile app design,Looking for someone who can create,mobile dev,in progress#
+13,Makkah,manage database,We need a  ,secretaria ,,not started#
+14,FinaKair, Mobile app,Looking for someone who can create,mobile dev,not started#
+
